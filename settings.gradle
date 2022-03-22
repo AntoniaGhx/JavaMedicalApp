@@ -1,0 +1,5 @@
+rootProject.name = 'lab2x-cioban_miron_suhan_sibianu'
+include 'server'
+include 'client'
+include 'common'
+

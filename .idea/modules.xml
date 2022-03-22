@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab2x-cioban_miron_suhan_sibianu.iml" filepath="$PROJECT_DIR$/.idea/modules/lab2x-cioban_miron_suhan_sibianu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/lab2x-cioban_miron_suhan_sibianu.client.iml" filepath="$PROJECT_DIR$/.idea/modules/client/lab2x-cioban_miron_suhan_sibianu.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/lab2x-cioban_miron_suhan_sibianu.client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/client/lab2x-cioban_miron_suhan_sibianu.client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/lab2x-cioban_miron_suhan_sibianu.client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/client/lab2x-cioban_miron_suhan_sibianu.client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/lab2x-cioban_miron_suhan_sibianu.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/lab2x-cioban_miron_suhan_sibianu.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/lab2x-cioban_miron_suhan_sibianu.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/lab2x-cioban_miron_suhan_sibianu.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/lab2x-cioban_miron_suhan_sibianu.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/lab2x-cioban_miron_suhan_sibianu.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab2x-cioban_miron_suhan_sibianu.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab2x-cioban_miron_suhan_sibianu.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/lab2x-cioban_miron_suhan_sibianu.server.iml" filepath="$PROJECT_DIR$/.idea/modules/server/lab2x-cioban_miron_suhan_sibianu.server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/lab2x-cioban_miron_suhan_sibianu.server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/server/lab2x-cioban_miron_suhan_sibianu.server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/lab2x-cioban_miron_suhan_sibianu.server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/server/lab2x-cioban_miron_suhan_sibianu.server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab2x-cioban_miron_suhan_sibianu.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab2x-cioban_miron_suhan_sibianu.test.iml" />
+    </modules>
+  </component>
+</project>
